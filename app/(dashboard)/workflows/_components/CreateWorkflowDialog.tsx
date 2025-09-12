@@ -85,7 +85,7 @@ function CreateWorkflowDialog({ triggerText }: { triggerText?: string }) {
                                         </FormControl>
                                         <FormDescription className='text-xs'>
                                             Provide a brief description of what your workflow does.<br />
-                                            (Note: This is optional but can help you remember the workflows's purpose.)
+                                            (Note: This is optional but can help you remember the workflows&apos;s purpose.)
                                         </FormDescription>
                                         <FormMessage />
                                     </FormItem>
